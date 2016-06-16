@@ -1,0 +1,27 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: Georgia;
+        }
+        
+        #header {
+            padding-top: 31px;
+            background-image: url(../images/header_background.png);
+            overflow: hidden;
+        }
+        
+        #form_area .form-control {
+            background-color: #EBEBEB;
+            background-repeat: repeat-x;
+        }
+        
+        .carousel-caption2 {
+            background-image: url(../images/portfolio_large_bg.png);
+        }
+        
+        .footer .row {
+            margin: 40px 0 10px 0;
+        }
